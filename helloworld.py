@@ -1,4 +1,2 @@
 import os
-
-files = os.listdir('.')
-print(files)
+print('hello')
